@@ -6,7 +6,9 @@ This is STORM version 1.5
 * STORM results in longer reads with higher accuracy compared to current popular merging tools
 * STORM is also able to remove contained reads or identical reads
 * STORM can generate overlap graphs as input of Omega2 
+
 https://github.com/qiumingyao/omega2
+
 https://bitbucket.org/omicsbio/omega2
 
 
