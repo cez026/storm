@@ -1,5 +1,8 @@
 # storm
 STORM (A Scalable Tool for Merging Paired-End Reads with Variable Insert Sizes)
+
+Original Repository: https://bitbucket.org/yaoornl/align_test
+
 This is STORM version 1.5
 
 * STORM is a tool for merging paired-end reads with variable insert sizes (i.e. for both overlapping and non-overlapping pairs)
