@@ -5,7 +5,10 @@ This is STORM version 1.5
 * STORM is a tool for merging paired-end reads with variable insert sizes (i.e. for both overlapping and non-overlapping pairs)
 * STORM results in longer reads with higher accuracy compared to current popular merging tools
 * STORM is also able to remove contained reads or identical reads
-* STORM can generate overlap graphs as input of Omega2 https://bitbucket.org/omicsbio/omega2
+* STORM can generate overlap graphs as input of Omega2 
+https://github.com/qiumingyao/omega2
+https://bitbucket.org/omicsbio/omega2
+
 
 ### Set up / Install Instructions ###
 
